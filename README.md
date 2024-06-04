@@ -1,6 +1,6 @@
 ## Hey!
 
-I'm Skyler, or Finkch on the interweb. When I have the downtime to code, I toil away at making small game demos, trying to solve difficult math problems, creating physics simulations, playing with data analysis, and doing plenty of toy problems. Beyond those topics, I'm also a big fan of astrophysics, video games, and tabletop roleplaying games. When I want to learn a new language, my goto is a basic reimplenting of an n-body orbital simulator.
+I'm Skyler, or Finkch on the interweb. When I have the downtime to code, I toil away at making small game demos, trying to solve difficult math problems, creating physics simulations, playing with data analysis, and doing plenty of toy problems. Beyond those topics, I'm also a big fan of astrophysics, video games, and tabletop roleplaying games. When I want to learn a new language, my goto project is a basic reimplenting of an n-body orbital simulator.
 
 
 ## Cool Projects
