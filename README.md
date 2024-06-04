@@ -7,7 +7,7 @@ I'm Skyler, or Finkch on the interweb. When I have the downtime to code, I toil 
 
 If you want to take a look at some of the stuff I've done, here's a quick list:
 - [Auto Pixel Art](https://github.com/Finkch/Auto-Pixelart): this is what I'm currently working on! Using intelligent downscaling algorithms to turn a regular image into impressive pixel art.
-- [Ion Ramjet Simulation (Beta](https://github.com/Finkch/Ion-Ramjet-Beta) and [Alpha](https://github.com/Finkch/Ion-Ramjet): a WIP physics simulation to determine the effectiveness of an interstellar magnetic scoop ramjet.
+- [Ion Ramjet Simulation (Beta)](https://github.com/Finkch/Ion-Ramjet-Beta) and [Alpha](https://github.com/Finkch/Ion-Ramjet): a WIP physics simulation to determine the effectiveness of an interstellar magnetic scoop ramjet.
 - [Magic Square, Squared](https://github.com/Finkch/MagicSquareSquare): trying my hand at a computational approach for a still unsolved maths problem.
 - [PICO-64](https://github.com/Finkch/pico-64): a library for the fantasy colose PICO-8 to support 64-bit integer operations rather than its native 16-bit capabilities.
 - [Mineswept](https://github.com/Finkch/mineswept): a silly implementation of the classic Minesweeper for the fantasy console PICO-8, except you're guaranteed to lose on the second turn.
