@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey!
 
-<!--
-**Finkch/Finkch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Skyler, or Finkch on the interweb. When I have the downtime to code, I toil away at making small game demos, trying to solve difficult math problems, creating physics simulations, playing with data analysis, and doing plenty of toy problems. Beyond those topics, I'm also a big fan of astrophysics, video games, and table top role-playing games. When I want to learn a new language, my goto is a basic reimplenting of an n-body orbital simulator.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Cool Projects
+
+If you want to take a look at some of the stuff I've done, here's a quick list:
+- [Auto Pixel Art](https://github.com/Finkch/Auto-Pixelart): this is what I'm currently working on! Using intelligent downscaling algorithms to turn a regular image into impressive pixel art.
+- [Ion Ramjet Simulation (Beta](https://github.com/Finkch/Ion-Ramjet-Beta) and [Alpha](https://github.com/Finkch/Ion-Ramjet): a WIP physics simulation to determine the effectiveness of an interstellar magnetic scoop ramjet.
+- [Magic Square, Squared](https://github.com/Finkch/MagicSquareSquare): trying my hand at a computational approach for a still unsolved maths problem.
+- [PICO-64](https://github.com/Finkch/pico-64): a library for the fantasy colose PICO-8 to support 64-bit integer operations rather than its native 16-bit capabilities.
+- [Mineswept](https://github.com/Finkch/mineswept): a silly implementation of the classic Minesweeper for the fantasy console PICO-8, except you're guaranteed to lose on the second turn.
+
+
+## Connect
+
+If you want to say hi, you can find me on [LinkedIn](https://www.linkedin.com/in/skyler-alderson-b91a2a30b/) or send me an [email](mailto:skyler@thealdersons.org)! If you want to know more about my qualification, take a look at my [resume](https://github.com/Finkch/resume).
+
