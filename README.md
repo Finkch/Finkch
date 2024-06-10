@@ -16,5 +16,5 @@ If you want to take a look at some of the stuff I've done, here's a quick list:
 
 ## Connect
 
-If you want to say hi, you can find me on [LinkedIn](https://www.linkedin.com/in/skyler-alderson-b91a2a30b/) or send me an [email](mailto:skyler@thealdersons.org)! If you want to know more about my qualification, take a look at my [résumé](https://github.com/Finkch/resume).
+If you want to say hi, you can find me on [LinkedIn](https://www.linkedin.com/in/skyler-alderson-b91a2a30b/) or send me an [email](mailto:skyler@thealdersons.org)! If you want to know more about my qualification, take a look at my [résumé](https://github.com/Finkch/resume/blob/main/resume.pdf).
 
