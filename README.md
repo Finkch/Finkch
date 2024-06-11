@@ -12,6 +12,7 @@ If you want to take a look at some of the stuff I've done, here's a quick list:
 - [Magic Square, Squared](https://github.com/Finkch/MagicSquareSquare): trying my hand at a computational approach for a still unsolved maths problem.
 - [PICO-64](https://github.com/Finkch/pico-64): a library for the fantasy colose PICO-8 to support 64-bit integer operations rather than its native 16-bit capabilities.
 - [Mineswept](https://github.com/Finkch/mineswept): a silly implementation of the classic Minesweeper for the fantasy console PICO-8, except you're guaranteed to lose on the second turn.
+- [2023 University Capstone](https://github.com/Finkch/2023-Capstone): a two-semester project required to complete my Computer Science degree. My team and I earned the highest grade out of the class. The project included automatically generating and grading SQL and Relational Algebra (RelaX) question, creating interfaces to accept and execute user input for SQL and RelaX, and maintaining front-to-back testing plus supporting documentation.
 
 
 ## Connect
